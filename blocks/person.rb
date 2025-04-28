@@ -1,3 +1,19 @@
+# Blocks in Ruby are chunks of code.
+# Single-line blocks are enclosed in braces, e.g., { ... }.
+# Multi-line blocks are defined using "do" and "end", e.g.,
+# do
+#   ...
+# end.
+
+# Blocks cannot be executed directly.
+# Instead, they must be associated with a method call.
+
+# When the method is called, it executes the code inside the block.
+# The method can pass parameters to the block if designed to do so.
+
+# Example usage might involve iterating over items in a collection,
+# where each item is passed to the block as a parameter.
+
 # Define the Person class
 class Person
   # Use attr_reader to automatically create getter methods for name and age
