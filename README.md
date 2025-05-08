@@ -6,7 +6,7 @@ This repository is a curated collection of Ruby code samples with accompanying n
 
 ## Getting Started
 
-To explore the examples in this repository, ensure you have Ruby installed on your system. You can download Ruby from [ruby-lang.org](https://www.ruby-lang.org/).
+To explore the examples in this repository, ensure you have Ruby installed on your system.
 
 Clone this repository to your local machine:
 
