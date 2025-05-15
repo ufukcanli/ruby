@@ -30,6 +30,7 @@ This repository includes the following:
   - `each.rb`: Examples of the `each` method and iterators.
   - `enumerable.rb`: Usage of the `Enumerable` module for collections.
   - `yielding.rb`: Advanced examples of yielding to blocks.
+  - `timing.rb`: Measuring execution time using blocks.
 
 ## License
 
