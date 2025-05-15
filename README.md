@@ -31,6 +31,7 @@ This repository includes the following:
   - `enumerable.rb`: Usage of the `Enumerable` module for collections.
   - `yielding.rb`: Advanced examples of yielding to blocks.
   - `timing.rb`: Measuring execution time using blocks.
+  - `sensor.rb`: Simulating sensor checks with blocks.
 
 ## License
 
