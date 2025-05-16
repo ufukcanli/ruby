@@ -32,6 +32,10 @@ This repository includes the following:
   - `yielding.rb`: Advanced examples of yielding to blocks.
   - `timing.rb`: Measuring execution time using blocks.
   - `sensor.rb`: Simulating sensor checks with blocks.
+  - `debugging.rb`: Using blocks for debugging output.
+  - `benchmark.rb`: Measuring code execution time with the Benchmark module.
+  - `expectation.rb`: Simple expectation-based test helper using blocks.
+  - `tag.rb`: Generating HTML tags using blocks.
 
 ## License
 
