@@ -36,6 +36,7 @@ This repository includes the following:
   - `benchmark.rb`: Measuring code execution time with the Benchmark module.
   - `expectation.rb`: Simple expectation-based test helper using blocks.
   - `tag.rb`: Generating HTML tags using blocks.
+  - `phone.rb`: Example demonstrating a simple phone class and usage.
 
 ## License
 
