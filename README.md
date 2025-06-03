@@ -39,6 +39,8 @@ This repository includes the following:
   - `phone.rb`: Example demonstrating a simple phone class and usage.
   - `initializer.rb`: Demonstrates object initialization with blocks and attribute assignment.
   - `resources.rb`: Managing resources (files, network, etc.) safely with blocks.
+  - `database_driver.rb`: Managing database connections safely with blocks, similar to `resources.rb` but for databases.
+  - `database_driver_extra.rb`: Extends the database driver example to include transaction management using blocks, following the same resource safety concepts.
 
 ## License
 
