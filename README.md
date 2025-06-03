@@ -37,6 +37,7 @@ This repository includes the following:
   - `expectation.rb`: Simple expectation-based test helper using blocks.
   - `tag.rb`: Generating HTML tags using blocks.
   - `phone.rb`: Example demonstrating a simple phone class and usage.
+  - `initializer.rb`: Demonstrates object initialization with blocks and attribute assignment.
 
 ## License
 
