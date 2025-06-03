@@ -38,6 +38,7 @@ This repository includes the following:
   - `tag.rb`: Generating HTML tags using blocks.
   - `phone.rb`: Example demonstrating a simple phone class and usage.
   - `initializer.rb`: Demonstrates object initialization with blocks and attribute assignment.
+  - `resources.rb`: Managing resources (files, network, etc.) safely with blocks.
 
 ## License
 
